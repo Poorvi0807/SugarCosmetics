@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Sugar cosmetics</h1>
+<h1 align="center" id="title">Sugar Cosmetics</h1>
 
 <h2>🚀 Demo</h2>
 
